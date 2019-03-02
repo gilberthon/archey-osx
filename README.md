@@ -2,16 +2,16 @@
 An archey script for OS X.
 
 ```sh
-                 ###                  User: jhann
-               ####                   Hostname: obihann
-               ###                    Distro: OS X 10.10.5
+                 ###                  User: gilberthon
+               ####                   Hostname: Macbook Pro
+               ###                    Distro: OS X 10.14.3
        #######    #######             Kernel: Darwin
      ######################           Uptime:  6:11
     #####################             Shell: /bin/zsh
     ####################              Terminal: xterm-256color iTerm.app
     ####################              Packages: 114
-    #####################             CPU: Intel Core i5-3210M CPU @ 2.50GHz
-     ######################           Memory: 8 GB
+    #####################             CPU: Intel Core i5-8400 CPU @ 2.80GHz
+     ######################           Memory: 16 GB
       ####################            Disk: 95%
         ################              Battery: 100.00%
          ####     #####               IP Address: 24.222.18.26

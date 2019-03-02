@@ -1,5 +1,11 @@
 # Change Log
 
+## [lastest](https://github.com/gilberthon/archey-osx) (2019-03-02)
+
+**Modified for myself:**
+
+- Last & lastest.
+
 ## [1.6.0](https://github.com/obihann/archey-osx/tree/1.6.0) (2016-04-04)
 [Full Changelog](https://github.com/obihann/archey-osx/compare/1.6.0-pr...1.6.0)
 
